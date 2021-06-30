@@ -1,0 +1,10 @@
+Idea + Code
+https://www.youtube.com/watch?v=sBVb4IB3O_U
+
+Jinja vs chameleon
+Chameleon dont break the html code.
+https://chameleon.readthedocs.io/en/latest/
+https://python.libhunt.com/compare-chameleon-vs-jinja
+
+FastAPI for FLASK users
+https://amitness.com/2020/06/fastapi-vs-flask/
